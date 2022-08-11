@@ -12,6 +12,11 @@ const Header = () => {
     setSidebarIsOpen(!sidebarIsOpen);
   };
 
+  // disable the body-scroll when the Sidebar is open
+  const docBody = document.body;
+  sidebarIsOpen ? docBody.classList.add('overflow_hide') : docBody.classList.remove('overflow_hide');
+
+
   return (
     <>
       <header id="header">

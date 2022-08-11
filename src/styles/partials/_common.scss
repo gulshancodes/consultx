@@ -1,3 +1,7 @@
+.overflow_hide {
+    overflow: hidden;
+}
+
 .container {
     max-width: 1320px;
     @include mx-auto;
