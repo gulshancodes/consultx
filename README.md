@@ -1,4 +1,4 @@
-# ConsultX - Business Consultancy Website
+## ConsultX - Business Consultancy Website
 
 ### [Demo Link](https://consultx.netlify.app/) 🔗
 
