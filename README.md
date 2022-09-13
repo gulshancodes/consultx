@@ -1,14 +1,15 @@
-# React Projects
+# ConsultX - Business Consultancy Website
 
-### [Demo Link](https://gulshan-react-projects.netlify.app/) 🔗
+### [Demo Link](https://consultx.netlify.app/) 🔗
 
-List of mostly used UI Elements (or Components) in a Website, built with **React JS**.
+A simple and interactive website, built with **React JS**.
 
 <br/>
 
 ## Features:
 
 - #### Fully Responsive
+- #### Multi Pages
 
 <br/>
 
