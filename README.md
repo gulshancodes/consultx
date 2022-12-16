@@ -18,7 +18,7 @@ A simple and interactive website, built with **React JS**.
 - #### **React JS**
 - #### **React Router**
 - #### **React Swiper**
-- #### **SASS**
+- #### **SASS / SCSS**
 
 <br/>
 
